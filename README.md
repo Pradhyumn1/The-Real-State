@@ -29,7 +29,7 @@ npm install
 npm start
 
 
-5. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+5. Open `https://main--beamish-llama-ba4b48.netlify.app` to view it in the browser.
 
 ## Dependencies
 
